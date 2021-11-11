@@ -1,6 +1,8 @@
 
 Its my Ca-2 Assesment.
 
+Note: Node Modules folder has not been uploaded.
+
 The below are the questions:
 
 
